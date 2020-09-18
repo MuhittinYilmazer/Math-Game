@@ -5,7 +5,7 @@
 <h2>Requirements</h2>
 <h4>-WAMP, LAMP or MAMP Server</h4>
 <h2>Installation</h2>
-<h4>1-Create a database. (ex:game)</h4>
+<h4>1-Create a database at phpmyadmin (ex:game).</h4>
 <h4>2-Configure all PDO database connections (including setup.php).</h4>
 <h4>3-Run setup.php</h4>
 
