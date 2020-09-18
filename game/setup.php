@@ -1,6 +1,6 @@
 <?php
 try {
-    $db = new PDO("mysql:host=localhost;dbname=game","muhittin","root");
+    $db = new PDO("mysql:host=localhost;dbname=yourdatabasename","username","password");
 } catch ( PDOException $e ) {
     echo "Error connecting database <br>";
     print $e->getMessage();
