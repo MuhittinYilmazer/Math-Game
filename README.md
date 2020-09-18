@@ -11,6 +11,6 @@
 
 <h2>Note:</h2>
 <h4>-Don't change files directory.</h4>
-<h4>-I know, installing is so complex but if you can install pls give feedback</h4>
-<h4>-If you have any questions <a href="https://www.instagram.com/yilmazermuhittin6/">yilmazermuhittin6</a></h4>
+<h4>-I know, installing is so complex. You can just review the code</h4>
+<h4>-Feedback - Questions <a href="https://www.instagram.com/yilmazermuhittin6/">yilmazermuhittin6</a></h4>
 
