@@ -1,7 +1,7 @@
 <?php
 
 
-$db = new PDO("mysql:host=localhost;dbname=game","muhittin","root");
+$db = new PDO("mysql:host=localhost;dbname=yourdatabasename","username","password");
 $sql = $db->prepare("SELECT * FROM gameOptions ORDER BY id DESC LIMIT 1");
 $sql->execute();
 $data = $sql->fetch();
