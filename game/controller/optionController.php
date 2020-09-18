@@ -1,5 +1,5 @@
 <?php
-$db = new PDO("mysql:host=localhost;dbname=game","muhittin","root");
+$db = new PDO("mysql:host=localhost;dbname=yourdatabasename","username","password");
 $sql = $db->prepare("INSERT INTO gameOptions SET 
 minimum= ?,
 maximum = ?,
