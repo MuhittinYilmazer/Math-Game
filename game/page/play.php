@@ -13,9 +13,6 @@
 <br>
 <?php
 require_once "../controller/playController.php";
-$db = new PDO("mysql:host=localhost;dbname=game","muhittin","root");
-
-
 ?>
 
 <br>
